@@ -1,4 +1,4 @@
-name: Bg-remover-sveltekit
+name: React-router
 
 on:
   push:
